@@ -1,3 +1,6 @@
+# idea files
+.idea/
+
 # Compiled/intermediate Python files
 *.py[cod]
 
